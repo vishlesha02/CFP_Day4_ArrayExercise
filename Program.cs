@@ -24,12 +24,20 @@ namespace ExerciseArray
 
             Console.WriteLine("Copy the elements of one array into another Array.");
             CopyArrayToAnotherArray p4=new CopyArrayToAnotherArray();
-            p4.Program();*/
+            p4.Program();
 
 
             Console.WriteLine("Count duplicate elements in an array");
             Duplicate p5= new Duplicate();
             p5.NumberD();
+
+            Console.WriteLine("Print all unique elements in an array");
+            Unique p6 = new Unique();
+            p6.Num();*/
+
+            Console.WriteLine("Merge two arrays of the same size sorted in ascending order");
+            MergeTwoArray p7=new MergeTwoArray();
+            p7.Two();
 
         }
    
