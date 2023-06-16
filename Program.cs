@@ -20,11 +20,16 @@ namespace ExerciseArray
 
             Console.WriteLine("Sum of all array elements");
             SumOfElementsInArray p3 = new SumOfElementsInArray();
-            p3.Program3();*/
+            p3.Program3();
 
             Console.WriteLine("Copy the elements of one array into another Array.");
             CopyArrayToAnotherArray p4=new CopyArrayToAnotherArray();
-            p4.Program();
+            p4.Program();*/
+
+
+            Console.WriteLine("Count duplicate elements in an array");
+            Duplicate p5= new Duplicate();
+            p5.NumberD();
 
         }
    
