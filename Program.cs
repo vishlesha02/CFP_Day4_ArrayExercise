@@ -37,11 +37,15 @@ namespace ExerciseArray
 
             Console.WriteLine("Merge two arrays of the same size sorted in ascending order");
             MergeTwoArray p7=new MergeTwoArray();
-            p7.Two();*/
+            p7.Two();
 
             Console.WriteLine("Sort elements of an array in ascending order");
             AscendingOrder p8= new AscendingOrder();
-            p8.ArrayOrder();
+            p8.ArrayOrder();*/
+
+            Console.WriteLine("Sort array elements in descending order.");
+            Descending p9=new Descending();
+            p9.Des();
 
         }
    
