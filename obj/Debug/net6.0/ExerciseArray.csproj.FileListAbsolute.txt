@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\bin\Debug\net6.0\ExerciseArray.exe
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\bin\Debug\net6.0\ExerciseArray.deps.json
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\bin\Debug\net6.0\ExerciseArray.runtimeconfig.json
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\bin\Debug\net6.0\ExerciseArray.dll
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\bin\Debug\net6.0\ExerciseArray.pdb
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.AssemblyInfo.cs
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.dll
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\refint\ExerciseArray.dll
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.pdb
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ExerciseArray.genruntimeconfig.cache
+C:\Users\DELL\source\repos\ExerciseArray\ExerciseArray\obj\Debug\net6.0\ref\ExerciseArray.dll
