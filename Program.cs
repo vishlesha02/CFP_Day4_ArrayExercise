@@ -33,11 +33,15 @@ namespace ExerciseArray
 
             Console.WriteLine("Print all unique elements in an array");
             Unique p6 = new Unique();
-            p6.Num();*/
+            p6.Num();
 
             Console.WriteLine("Merge two arrays of the same size sorted in ascending order");
             MergeTwoArray p7=new MergeTwoArray();
-            p7.Two();
+            p7.Two();*/
+
+            Console.WriteLine("Sort elements of an array in ascending order");
+            AscendingOrder p8= new AscendingOrder();
+            p8.ArrayOrder();
 
         }
    
