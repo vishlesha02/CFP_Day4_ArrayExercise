@@ -12,11 +12,15 @@ namespace ExerciseArray
         {/*
              Console.WriteLine("Store elements in an array and print them");
              StoreAndPrint p1 = new StoreAndPrint();
-             p1.StoreArray();*/
+             p1.StoreArray();
 
             Console.WriteLine("Read n values in an array and display them in reverse order");
             StoreAndPrintInReverse p2 = new StoreAndPrintInReverse();
-            p2.Rev();
+            p2.Rev();*/
+
+            Console.WriteLine("Sum of all array elements");
+            SumOfElementsInArray p3 = new SumOfElementsInArray();
+            p3.Program3();
 
         }
    
