@@ -56,6 +56,9 @@ namespace ExerciseArray
             SecondSmallest p11 = new SecondSmallest();
             p11.Small();
 
+            Console.WriteLine("Get only odd values from a given integer array.");
+            OddValues p12 = new OddValues();
+            p12.OddNumbers();
         }
    
     }
