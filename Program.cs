@@ -51,6 +51,11 @@ namespace ExerciseArray
             SecondLargest p10=new SecondLargest();
             p10.Element();
 
+
+            Console.WriteLine("Find second Smallest element");
+            SecondSmallest p11 = new SecondSmallest();
+            p11.Small();
+
         }
    
     }
