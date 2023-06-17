@@ -9,7 +9,7 @@ namespace ExerciseArray
     internal class Program
     {
         static void Main(String[] args)
-        {/*
+        {
              Console.WriteLine("Store elements in an array and print them");
              StoreAndPrint p1 = new StoreAndPrint();
              p1.StoreArray();
@@ -41,11 +41,15 @@ namespace ExerciseArray
 
             Console.WriteLine("Sort elements of an array in ascending order");
             AscendingOrder p8= new AscendingOrder();
-            p8.ArrayOrder();*/
+            p8.ArrayOrder();
 
             Console.WriteLine("Sort array elements in descending order.");
             Descending p9=new Descending();
             p9.Des();
+
+            Console.WriteLine("Find second Largest element");
+            SecondLargest p10=new SecondLargest();
+            p10.Element();
 
         }
    
