@@ -9,7 +9,7 @@ namespace ExerciseArray
     internal class Program
     {
         static void Main(String[] args)
-        {/*
+        {
              Console.WriteLine("Store elements in an array and print them");
              StoreAndPrint p1 = new StoreAndPrint();
              p1.StoreArray();
@@ -58,11 +58,15 @@ namespace ExerciseArray
 
             Console.WriteLine("Get only odd values from a given integer array.");
             OddValues p12 = new OddValues();
-            p12.OddNumbers();*/
+            p12.OddNumbers();
 
             Console.WriteLine("Removes all duplicate elements from a given array and returns an updated array.");
             DeleteDuplicate p13 = new DeleteDuplicate();
             p13.Delete();
+
+            Console.WriteLine("Count frequency of each Element");
+            CountFrequency p14=new CountFrequency();
+            p14.Numbers();
 
         
         }
