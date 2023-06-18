@@ -68,7 +68,9 @@ namespace ExerciseArray
             CountFrequency p14=new CountFrequency();
             p14.Numbers();
 
-        
+            Console.WriteLine("Find Max and Min Number");
+            MaxAndMin p15=new MaxAndMin();
+            p15.MaM();
         }
    
     }
