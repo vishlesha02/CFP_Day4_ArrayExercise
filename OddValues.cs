@@ -8,6 +8,7 @@ namespace ExerciseArray
 {
     internal class OddValues
     {
+        
         public void OddNumbers()
         {
             int[] array = { 2, 5, 6, 3, 4, 8 };
@@ -16,6 +17,7 @@ namespace ExerciseArray
                 if (array[i] % 2 != 0)
                 {
                     Console.WriteLine(array[i]);
+                   
                     
                 }
             
