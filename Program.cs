@@ -71,6 +71,11 @@ namespace ExerciseArray
             Console.WriteLine("Find Max and Min Number");
             MaxAndMin p15=new MaxAndMin();
             p15.MaM();
+
+
+            Console.WriteLine("Print Even and odd numbers in seperate list");
+            SeparateEvenAndOdd p16=new SeparateEvenAndOdd();
+            p16.EvenOdd();
         }
    
     }
